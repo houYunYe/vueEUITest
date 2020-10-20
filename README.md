@@ -1,2 +1,2 @@
-# vueLayUITest
-VUE + LayUI 前端管理项目测试
+# vue + EUI
+VUE + element UI 管理项目测试
